@@ -1,8 +1,10 @@
 ### Welcome 👋 I'm Nate
 
-
+add statement about FULLL STACK WEB DEVELOPMENT
+add revelant photo or headliner photo with name, js.particles?
 
 Tools I work with:
+Add technology badges
 
 
 
