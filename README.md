@@ -16,7 +16,7 @@
   - Travel 🗺
 - 💼 I’m currently enrolled in Lambda School's Web Development Curriculum
 - 📫 You can contact me directly at nrhietala@gmail.com
-- 🔎 Check out my <a href="https://www.linkedin.com/in/nrhietala/">LinkedIn</a> profile
+- 🔎 Check out my <a href="https://www.linkedin.com/in/nrhietala/">LinkedIn</a> profile and <a href="https://drive.google.com/file/d/16bc6w74QgC_ybLyOJor5jdaT_K-P5Dtj/view?usp=sharing">Resume</a>
 
 <br/>
 <h2>Languages and Tools:</h2>  
