@@ -4,7 +4,7 @@
 
 ### I'm Nate, a Full Stack Web Developer with a passion for learning new things and finding creative ways to solve problems with code!
 
-  <img align="right" alt="Code all night" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+  <img align="right" alt="all nighter" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **About me:**
 
