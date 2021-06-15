@@ -14,9 +14,10 @@
   - Code! 💻
   - Hiking 🥾
   - Travel 🗺
-- 💼 I’m currently enrolled in Lambda School's Web Development Curriculum
+  - Frisbee Golf ⛳
+  - Board Games 🎲
 - 📫 You can contact me directly at nrhietala@gmail.com
-- 🔎 Check out my <a href="https://www.linkedin.com/in/nrhietala/" target="_blank">LinkedIn</a> profile and <a href="https://drive.google.com/file/d/16bc6w74QgC_ybLyOJor5jdaT_K-P5Dtj/view?usp=sharing" target="_blank">Resume</a>
+- 🔎 Check out my <a href="https://www.linkedin.com/in/nrhietala/" target="_blank">LinkedIn</a>, <a href="https://drive.google.com/file/d/16bc6w74QgC_ybLyOJor5jdaT_K-P5Dtj/view?usp=sharing" target="_blank">Resume</a>, <a href="https://www.nathanhietala.com/" target="_blank">Portfolio</a>
 
 <br/>
 <h2>Languages and Tools:</h2>  
