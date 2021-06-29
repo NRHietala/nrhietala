@@ -9,7 +9,7 @@
 **About me:**
 
 - 👨🏽‍💻 I’m currently on the job hunt!
-- 🤿 I’m currently deep diving into a beautiful technology... **🙏Redux Toolkit🙏**
+- 🤿 I’m currently deep diving into a beautiful technology... <br/>**🙏Redux Toolkit🙏**
 - 🎉 My interests include:
   - Code! 💻
   - Hiking 🥾
@@ -31,8 +31,10 @@
 ![Styled-Components](https://img.shields.io/badge/Styled%20Components-2E3440?style=for-the-badge&logo=styled-components)
 ![Node](https://img.shields.io/badge/Node-2E3440?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-2E3440?style=for-the-badge&logo=express)
-![Heroku](https://img.shields.io/badge/Heroku-2E3440?style=for-the-badge&logo=heroku)
+![Knex](https://img.shields.io/badge/Knex-2E3440?style=for-the-badge&logo=knex)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2E3440?style=for-the-badge&logo=postgresql)
+![Heroku](https://img.shields.io/badge/Heroku-2E3440?style=for-the-badge&logo=heroku)
+![Netlify](https://img.shields.io/badge/Netlify-2E3440?style=for-the-badge&logo=netlify)
 ![SQLite](https://img.shields.io/badge/SQLite-2E3440?style=for-the-badge&logo=sqlite)
 ![npm](https://img.shields.io/badge/npm-2E3440?style=for-the-badge&logo=npm)
 ![Git](https://img.shields.io/badge/Git-2E3440?style=for-the-badge&logo=Git)
