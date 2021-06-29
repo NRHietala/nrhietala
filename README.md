@@ -8,8 +8,8 @@
 
 **About me:**
 
-- 👨🏽‍💻 I’m currently working on <a href='https://github.com/Lambda-School-Labs/family-promise-service-tracker-be-a'>Family Promise Service Tracker</a>
-- 🤿 I’m currently deep diving into a beautiful technology we don't deserve... **🙏Redux Toolkit🙏**
+- 👨🏽‍💻 I’m currently on the job hunt!
+- 🤿 I’m currently deep diving into a beautiful technology... **🙏Redux Toolkit🙏**
 - 🎉 My interests include:
   - Code! 💻
   - Hiking 🥾
