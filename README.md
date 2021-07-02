@@ -36,6 +36,7 @@
 ![Heroku](https://img.shields.io/badge/Heroku-2E3440?style=for-the-badge&logo=heroku)
 ![Netlify](https://img.shields.io/badge/Netlify-2E3440?style=for-the-badge&logo=netlify)
 ![SQLite](https://img.shields.io/badge/SQLite-2E3440?style=for-the-badge&logo=sqlite)
+![Jest](https://img.shields.io/badge/Jest-2E3440?style=for-the-badge&logo=jest)
 ![npm](https://img.shields.io/badge/npm-2E3440?style=for-the-badge&logo=npm)
 ![Git](https://img.shields.io/badge/Git-2E3440?style=for-the-badge&logo=Git)
 ![Github](https://img.shields.io/badge/GitHub-2E3440?style=for-the-badge&logo=github)
