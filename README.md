@@ -8,7 +8,7 @@
 
 **About me:**
 
-- 👨🏽‍💻 I’m currently on the job hunt!
+- 👨🏽‍💻 I’m actively searching for impactful employment!
 - 🤿 I’m currently deep diving into a beautiful technology... <br/>**🙏Redux Toolkit🙏**
 - 🎉 My interests include:
   - Code! 💻
