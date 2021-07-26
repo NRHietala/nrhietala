@@ -9,7 +9,7 @@
 **About me:**
 
 - 👨🏽‍💻 I’m actively searching for impactful employment!
-- 🤿 I’m currently deep diving into a beautiful technology... <br/>**🙏Redux Toolkit🙏**
+- 🤿 I’m currently deep diving into TypeScript and Angular
 - 🎉 My interests include:
   - Code! 💻
   - Hiking 🥾
