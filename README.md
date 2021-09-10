@@ -8,7 +8,7 @@
 
 **About me:**
 
-- 👨🏽‍💻 I’m actively searching for impactful employment!
+- 👨🏽‍💻 I’m currently working at <a href='https://upperlakesfoods.com/'>Upper Lakes Foods</a>
 - 🤿 I’m currently deep diving into TypeScript and Angular
 - 🎉 My interests include:
   - Code! 💻
