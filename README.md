@@ -8,7 +8,7 @@
 
 **About me:**
 
-- 👨🏽‍💻 I’m currently working at <a href='https://upperlakesfoods.com/'>Upper Lakes Foods</a>
+<!-- - 👨🏽‍💻 I’m currently working at <a href='https://upperlakesfoods.com/'>Upper Lakes Foods</a> -->
 - 🤿 I’m currently deep diving into TypeScript and Angular
 - 🎉 My interests include:
   - Code! 💻
@@ -17,7 +17,7 @@
   - Frisbee Golf ⛳
   - Board Games 🎲
 - 📫 You can contact me directly at nrhietala@gmail.com
-- 🔎 Check out my <a href="https://www.linkedin.com/in/nrhietala/" target="_blank">LinkedIn</a>, <a href="https://drive.google.com/file/d/1gpHT_yp3q7gtsW5ocn7GAItCioCC4Nsz/view?usp=sharing" target="_blank">Resume</a>, and <a href="https://www.nathanhietala.com/" target="_blank">Portfolio</a>
+<!-- - 🔎 Check out my <a href="https://www.linkedin.com/in/nrhietala/" target="_blank">LinkedIn</a>, <a href="https://drive.google.com/file/d/1gpHT_yp3q7gtsW5ocn7GAItCioCC4Nsz/view?usp=sharing" target="_blank">Resume</a>, and <a href="https://www.nathanhietala.com/" target="_blank">Portfolio</a> -->
 
 <br/>
 <h2>Languages and Tools:</h2>  
